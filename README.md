@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BokiX01 (Borna)
 - 💻 Interests: application development & computing in general
-- 🧠 Learning: Python, JavaScript & SQL
+- 🧠 Learning: Python, JavaScript, C++, C#, & SQL
 - 🤝 Looking forward to: collaborating with people on many projects
 - 💸 Making: custom applications & scripts
 - 🔔 Contact: BokiX#7921 (Discord)
