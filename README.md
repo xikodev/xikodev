@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @BokiX01 (Borna)
-- 💻 Interests: application development & computing in general
-- 🧠 Learning: Python, JavaScript, C++, C#, & SQL
+- 👋 Hi, I’m Borna
+- 💻 Interests: dekstop and web application development
+- 🧠 Learning: Python, JavaScript, SQL, HTML & CSS
 - 🤝 Looking forward to: collaborating with people on many projects
-- 💸 Making: custom applications & scripts
-- 🔔 Contact: BokiX#7921 (Discord)
+- ✉️ Contact: borna5krpan@gmail.com
 
 <!---
 BokiX01/BokiX01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
