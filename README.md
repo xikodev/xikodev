@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Borna
 - 💻 Interests: dekstop and web application development
-- 🧠 Learning: Python, JavaScript, SQL, HTML & CSS
+- 🧠 Learning: Python, JavaScript
 - 🤝 Looking forward to: collaborating with people on many projects
 - ✉️ Contact: borna5krpan@gmail.com
 
