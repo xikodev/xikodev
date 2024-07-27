@@ -3,6 +3,7 @@
 - 🧠 Learning: Python, JavaScript
 - 🤝 Looking forward to: collaborating with people on many projects
 - ✉️ Contact: borna5krpan@gmail.com
+- 📈 Discord server: https://discord.gg/EkUhXr5qKH
 
 <!---
 BokiX01/BokiX01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
