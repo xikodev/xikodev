@@ -6,7 +6,7 @@ My main area of focus is software development, especially web applications. I'm 
 - Looking forward to: collaborating with people on many projects 🤝
 
 ## Education 🎓
-- Tehnička škola Zagreb (2020./21. - 2023./24.)
+- Technical school Zagreb (2020./21. - 2023./24.)
 - University of Zagreb, Faculty of Electrical Engineering and Computing (2024./25. - Present)
 
 ## My interests 💻
