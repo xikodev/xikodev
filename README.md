@@ -10,7 +10,7 @@ My main area of focus is software development, especially web applications. I'm 
 - University of Zagreb, Faculty of Electrical Engineering and Computing (2024./25. - Present)
 
 ## My interests 💻
--  Dekstop and web application development
+-  Desktop and web application development
 -  Robotics and automation
 
 ## Contact information ✉️
