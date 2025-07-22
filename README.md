@@ -1,4 +1,4 @@
-# Welcome to BokiX01 GitHub profile! 👋
+# Welcome to xikodev GitHub profile! 👋
 
 Hi, my name is Borna Krpan and I'm a young developer with more than four years of experience, strongly motivated and eager to expand knowledge in informatics.
 My main area of focus is software development, especially web applications. I'm also developing in field of robotics. Project in both fields have brought me numerous awards.
