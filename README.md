@@ -1,4 +1,4 @@
-<img width="1456" height="407" alt="image" src="https://github.com/user-attachments/assets/74e64200-b34e-4252-9125-9146ceb9b42c" /># Welcome to xikodev GitHub profile! 👋
+# Welcome to xikodev GitHub profile! 👋
 
 Hi, my name is Borna Krpan and I'm a young developer with more than four years of experience, strongly motivated and eager to expand knowledge in informatics.
 My main area of focus is software development, especially web applications. I'm also developing in field of robotics. Project in both fields have brought me numerous awards.
